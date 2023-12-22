@@ -3,7 +3,7 @@
 <h3 align="center">I am human who love technology , nature.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on MongoDb<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Apache Groovy<br>💬 Ask me about C,Java,Web Dev<br>⚡ Fun fact<br>
+🔭 I’m currently working on MongoDb<br> I’m currently learning Apache Groovy<br>💬 Ask me about C,Java,Web Dev<br>⚡ Fun fact<br>
 [![](https://visitcount.itsvg.in/api?id=ankith122&icon=0&color=12)](https://visitcount.itsvg.in)
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
